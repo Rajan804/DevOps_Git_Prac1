@@ -1,0 +1,4 @@
+checking main is updated or not
+
+Rebase is a Git command that lets you move or combine a sequence of commits to a new base commit.
+It’s often used to keep a project history linear and clean, unlike merge which preserves branching.
